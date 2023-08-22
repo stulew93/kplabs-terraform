@@ -1,0 +1,6 @@
+**terraform*
+.idea/
+venv/
+
+aws-keys.txt
+common_vars.tf
