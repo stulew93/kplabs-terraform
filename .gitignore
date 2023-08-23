@@ -2,5 +2,5 @@
 .idea/
 venv/
 
-aws-keys.txt
+aws_keys.txt
 common_vars.tf
