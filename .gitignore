@@ -2,5 +2,5 @@
 .idea/
 venv/
 
-aws_keys.txt
-common_vars.tf
+0. Initial Setup/aws_keys.txt
+0. Initial Setup/common_vars.tf
